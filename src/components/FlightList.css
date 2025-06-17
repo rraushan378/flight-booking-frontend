@@ -1,0 +1,18 @@
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 2rem auto;
+  max-width: 500px;
+}
+
+li {
+  background: #fff;
+  margin-bottom: 1rem;
+  padding: 1rem 1.5rem;
+  border-radius: 6px;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.06);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 1.1rem;
+}
